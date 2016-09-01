@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Beg</title>
+    <link>/page/</link>
+    <description>Recent content in Pages on Beg</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 30 Jul 2016 08:03:18 +0000</lastBuildDate>
+    <atom:link href="/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>about</title>
+      <link>/page/about/</link>
+      <pubDate>Sat, 30 Jul 2016 08:03:18 +0000</pubDate>
+      
+      <guid>/page/about/</guid>
+      <description>
+
+&lt;h2 id=&#34;introducing-healthsquare:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Introducing HealthSquare&lt;/h2&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
